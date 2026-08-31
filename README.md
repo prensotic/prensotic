@@ -27,5 +27,3 @@ I've also worked with C#, JavaScript, TypeScript, WPF, MS SQL Server and other t
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/prensotic"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prensotic&stroke=a855f7&background=22272e&ring=ffffff&fire=ffffff&currStreakNum=a855f7&currStreakLabel=ffffff&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
-
-ProfileMe.dev | Create an amazing GitHub profile in minutes
