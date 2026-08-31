@@ -1,27 +1,27 @@
 # 👋 Hi, I'm Ilya
 
-I'm a Java developer focused on backend development and interested in building useful and well-structured applications. I enjoy learning how things work under the hood, experimenting with different approaches, and turning ideas into real projects.
+I'm a beginner Java developer interested in backend development and software engineering. Java is currently my main focus, and I'm learning the Spring ecosystem while working on personal projects and improving my understanding of backend development.
 
-## 💻 What I work with
+I've also worked with **C#, JavaScript, TypeScript, WPF, MS SQL Server** and other technologies. I enjoy trying different technologies, building applications from scratch, and learning how different parts of software work together.
 
-My main language is **Java**. I'm currently focusing on **Spring Framework and Spring Boot**, while developing my understanding of backend architecture, databases, APIs, multithreading, and software design.
+## 💻 Technologies & Tools
 
-I also have experience with **SQL, MySQL, Git, REST APIs, JUnit, Maven**, as well as **Python, C#, WPF and React**. I'm especially interested in backend development and want to continue growing in the Java ecosystem.
+**Main focus:** Java, Spring Framework, Spring Boot
+
+**Also worked with:** C#, JavaScript, TypeScript, WPF, React, Python, SQL, MS SQL Server, MySQL
+
+**Tools:** Git, GitHub, Maven, IntelliJ IDEA, Visual Studio, VS Code
 
 ## 🚀 Currently learning
 
-Right now, I'm diving deeper into **Spring Framework**, **Spring Boot**, backend architecture, and best practices for building maintainable applications. I'm also studying algorithms and improving my understanding of Java internals and multithreading.
+I'm currently focusing on **Java backend development**, especially Spring Framework and Spring Boot. I'm also improving my knowledge of databases, REST APIs, multithreading, algorithms, software architecture, and clean code.
 
-Another goal I'm working toward is improving my **English**, both for everyday communication and for working in an international professional environment.
+I believe the best way to learn programming is by building projects, making mistakes, and figuring out how to solve problems along the way.
 
-## 📂 Projects
+## 🎯 Goals
 
-Most of my repositories are learning projects where I try to apply what I've learned in practice. I prefer building something myself and facing real problems along the way rather than only following tutorials.
+My goal is to become a professional **Java Backend Developer**, gain experience working on real-world projects, and continue expanding my knowledge of software development.
 
-I'm constantly improving existing projects, experimenting with new technologies, and adding new ones as I learn.
+I'm also working on improving my **English**, both for everyday communication and for professional development.
 
-## 🎯 My goal
-
-My goal is to become a strong **Java Backend Developer**, gain experience working on real-world software, and keep growing as a developer.
-
-Thanks for stopping by! ⭐
+Thanks for visiting my profile! 🚀
