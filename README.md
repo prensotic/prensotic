@@ -1,27 +1,45 @@
-# 👋 Hi, I'm Ilya
+ProfileMe.dev
+
+    Go home
+
+© 2026 Dan Cranney
+Follow me
+|
+Buy Me a Coffee
+Support
+
+Make it easy for people using your products to support you or give donations.
+buymeacoffeeBuy Me a Coffee:
+kofiKo-fi:
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ilya Loginov
+=====================================================================================================================================
+
+Java Developer
+--------------
 
 I'm a beginner Java developer interested in backend development and software engineering. Java is currently my main focus, and I'm learning the Spring ecosystem while working on personal projects and improving my understanding of backend development.
 
-I've also worked with **C#, JavaScript, TypeScript, WPF, MS SQL Server** and other technologies. I enjoy trying different technologies, building applications from scratch, and learning how different parts of software work together.
+I've also worked with C#, JavaScript, TypeScript, WPF, MS SQL Server and other technologies. I enjoy trying different technologies, building applications from scratch, and learning how different parts of software work together.
 
-## 💻 Technologies & Tools
+*   🌍  I'm based in Yoshkar-Ola
+*   ✉️  You can contact me at [vhxhje3ouxg3ofo@gmail.com](mailto:vhxhje3ouxg3ofo@gmail.com)
+*   🧠  I'm currently learning Spring Framework
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
+                  </p>
+                  
 
-**Main focus:** Java, Spring Framework, Spring Boot
+                ### Socials
+                
+                <p align="left"> <a href="https://www.github.com/prensotic" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
+<a href="https://www.github.com/prensotic" target="_blank" rel="noreferrer"><img
+                src="https://img.shields.io/github/followers/prensotic?logo=github&style=for-the-badge&color=a855f7&labelColor=22272e" /></a>
 
-**Also worked with:** C#, JavaScript, TypeScript, WPF, React, Python, SQL, MS SQL Server, MySQL
+### Badges
 
-**Tools:** Git, GitHub, Maven, IntelliJ IDEA, Visual Studio, VS Code
+<b>My GitHub Stats</b>
 
-## 🚀 Currently learning
+<a href="http://www.github.com/prensotic"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prensotic&stroke=a855f7&background=22272e&ring=ffffff&fire=ffffff&currStreakNum=a855f7&currStreakLabel=ffffff&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
 
-I'm currently focusing on **Java backend development**, especially Spring Framework and Spring Boot. I'm also improving my knowledge of databases, REST APIs, multithreading, algorithms, software architecture, and clean code.
-
-I believe the best way to learn programming is by building projects, making mistakes, and figuring out how to solve problems along the way.
-
-## 🎯 Goals
-
-My goal is to become a professional **Java Backend Developer**, gain experience working on real-world projects, and continue expanding my knowledge of software development.
-
-I'm also working on improving my **English**, both for everyday communication and for professional development.
-
-Thanks for visiting my profile! 🚀
+ProfileMe.dev | Create an amazing GitHub profile in minutes
