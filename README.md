@@ -38,6 +38,22 @@ An online store training project developed in Java using the Spring Framework, H
 
 ---
 
+### Finance Manager
+
+A financial management project. Developed using AspNetCore, EFCore, React JS.
+
+[View Project](https://github.com/prensotic/Finance-Manager.git)
+
+---
+
+### Bank
+
+A console application that simulates the behavior of a bank, transactions, etc.
+
+[View Project](https://github.com/prensotic/PresnoticBankDemo.git)
+
+---
+
 ## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=prensotic&show_icons=true&count_private=true&theme=default" alt="GitHub Statistics" />
