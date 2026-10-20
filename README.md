@@ -46,11 +46,11 @@ A financial management project. Developed using AspNetCore, EFCore, React JS.
 
 ---
 
-### Bank
+### Task Manager API
 
-A console application that simulates the behavior of a bank, transactions, etc.
+RESTful backend is a task management application with JWT authentication, access control, and data storage in PostgreSQL.
 
-[View Project](https://github.com/prensotic/PresnoticBankDemo.git)
+[View Project](https://github.com/prensotic/Task-Manager-API.git)
 
 ---
 
