@@ -38,19 +38,19 @@ An online store training project developed in Java using the Spring Framework, H
 
 ---
 
-### Finance Manager
-
-A financial management project. Developed using AspNetCore, EFCore, React JS.
-
-[View Project](https://github.com/prensotic/Finance-Manager.git)
-
----
-
 ### Task Manager API
 
 RESTful backend is a task management application with JWT authentication, access control, and data storage in PostgreSQL.
 
 [View Project](https://github.com/prensotic/Task-Manager-API.git)
+
+---
+
+### Finance Manager
+
+A financial management project. Developed using AspNetCore, EFCore, React JS.
+
+[View Project](https://github.com/prensotic/Finance-Manager.git)
 
 ---
 
